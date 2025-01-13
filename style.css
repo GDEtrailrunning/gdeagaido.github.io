@@ -15,18 +15,18 @@ body {
 
 .main-container {
   background-color:#ffffff;
-  padding-top: 2em;
+  padding-top: 0em;
   padding-bottom: 0em;
   padding-left: 3em;
   padding-right: 4em;
-  margin: -12em; /* Eliminado para evitar márgenes laterales en dispositivos pequeños */
+  margin: -10em; /* Eliminado para evitar márgenes laterales en dispositivos pequeños */
   margin-top: 2em;
   margin-bottom: 0em;
   margin-left: 0em;
   margin-inline-start: 3em;
   margin-inline-end: 6em;
   color: black;
-  font-size: 1.3em;
+  font-size: 1.8em;
   text-align: center;
   justify-content:space-between;
   display: flex;
@@ -91,6 +91,7 @@ body {
   font-size: 0.9em;
   font-family: "Tajawal", sans-serif;
   font-style: normal;
+  
 }
 
 .small-paragraph-container {
