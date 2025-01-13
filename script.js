@@ -48,7 +48,7 @@ const dataLine2 = {
 
   // Ajustar tamaño de los gráficos
   const canvas1 = document.getElementById('myChart-line-1');
-  canvas1.width = 1000; // Ancho deseado
+  canvas1.width = 800; // Ancho deseado
   canvas1.height = 500; // Alto deseado
 
   const canvas2 = document.getElementById('myChart-line-2');
